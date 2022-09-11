@@ -1,5 +1,6 @@
 ############### Blackjack Project #####################
 # There is one rare bug where the player can win with a score of 22 and that is when the first two cards dealt are both Aces. This can be solved by checking for the Ace earlier
+# I only used one hint from the list hence my program has a significantly different structure
 ############### Our Blackjack House Rules #####################
 
 ## The deck is unlimited in size. 
@@ -13,7 +14,7 @@
 ## The computer is the dealer.
 
 ##################### Hints #####################
-
+# 
 #Hint 1: Go to this website and try out the Blackjack game: 
 #   https://games.washingtonpost.com/games/blackjack/
 #Then try out the completed Blackjack project here: 
